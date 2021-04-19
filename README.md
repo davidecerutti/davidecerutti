@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidecerutti
 - 👀 I’m interested in computer science
 - 🌱 I’m currently studying at University of Milan, Italy
-- 💞️ I’m looking to collaborate in broadcasting field
+- 💞️ I’m working and collaborating in broadcasting field
 - 📫 How to reach me: davide15.cerutti@gmail.com (IT, EN)
 
 <!---
