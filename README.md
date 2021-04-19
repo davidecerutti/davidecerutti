@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @davidecerutti
+- 👀 I’m interested in computer science
+- 🌱 I’m currently studying at University of Milan, Italy
+- 💞️ I’m looking to collaborate in broadcasting field
+- 📫 How to reach me: davide15.cerutti@gmail.com (IT, EN)
+
+<!---
+davidecerutti/davidecerutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
